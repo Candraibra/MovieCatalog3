@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MovieCatalog3</string>
+    <string name="moviecatalog">MOVIECATALOG</string>
+    <string name="change_language_settings">Choose Lenguage</string>
+    <string name="title_movie">Movies</string>
+    <string name="title_tv_show">Tv Shows</string>
+    <string name="description">Once home to the most advanced civilization on Earth, </string>
+    <string name="title_tv">Aquaman (2019)</string>
+    <string name="user_rating">4.4</string>
+    <string name="popular_on_moviecatalog">Popular On MovieCatalog</string>
+    <string name="overview">Overview</string>
+    <string name="toastmsg">Please Check Your Internet</string>
+    <string name="realise_date">Realise Date</string>
+    <string name="realise_date_text">18/11/2019</string>
+</resources>

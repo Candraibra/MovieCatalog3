@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieCatalog3</string>
+    <string name="moviecatalog">MOVIECATALOG</string>
+    <string name="change_language_settings">Pilih Bahasa</string>
+    <string name="title_movie">Film</string>
+    <string name="title_tv_show">Serial Tv</string>
+    <string name="description">Dulunya merupakan rumah bagi peradaban paling maju di Bumi,</string>
+    <string name="title_tv">Aquaman (2019)</string>
+    <string name="user_rating">4.4</string>
+    <string name="popular_on_moviecatalog">Populer di MovieCatalog</string>
+    <string name="overview">Sinopsis</string>
+    <string name="toastmsg">Internet Kamu Sedang Bermasalah?</string>
+    <string name="realise_date">Tanggal Rilis</string>
+    <string name="realise_date_text">18/11/2019</string>
+</resources>
